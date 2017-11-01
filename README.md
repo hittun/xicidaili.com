@@ -1,5 +1,15 @@
-# xicidaili.com
 # python3 爬虫 xicidaili.com 实战
+
+- 第一步 分析网站
+- 第二步 导包
+- 第三步 访问测试
+- 第四步 伪装好人之模拟浏览器访问
+- 第五步 完善之出错重传
+- 第六步 解析页面数据
+- 第七步 数据保存为excel
+- 第八步 抓取所有页面
+- 第九步 优化效率之用内存来换IO
+- 总结
 
 [原文出自本人CSDN](http://blog.csdn.net/hunter_wyh/article/details/78410637)
 
